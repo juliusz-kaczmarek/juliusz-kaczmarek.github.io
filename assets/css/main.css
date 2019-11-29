@@ -2421,6 +2421,7 @@ input, select, textarea {
 		cursor: default;
 		list-style: none;
 		padding-left: 0;
+		text-align: center;
 	}
 
 		ul.icons li {
@@ -2435,6 +2436,10 @@ input, select, textarea {
 			ul.icons li .icon:before {
 				font-size: 1.25em;
 			}
+
+		/* Icons Contact */
+
+
 
 /* Table */
 
